@@ -17,6 +17,8 @@ But let's be honest, for now I'm a bit too lazy to do all that, which you probab
 
 Sorry, promise I'll get back to this at some point.
 
+If you did manage to read up until this point, or even just jump right here with those wonderful eyeballs of you, then I won't just leave you hanging. Check out [these amazing Github profile README files](https://github.com/abhisheknaiidu/awesome-github-profile-readme) (according to the contributors at least, didn't check all of them myself I can assure you). 
+
 Cheers,
 
 David
