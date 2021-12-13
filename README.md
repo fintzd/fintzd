@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-This is what I should write about according to Github:
+According to Github, this is what I should write about:
 
 > Here are some ideas to get you started:
 > 
