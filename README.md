@@ -13,7 +13,11 @@ According to Github, this is what I should write about:
 > - 😄 Pronouns: ...
 > - ⚡ Fun fact: ...
 
-But let's be honest, for now I'm a bit too lazy to do all that, which you probably realized by reading up until this point. Wow you really made it to this far? Well congratulations, really, kudos to you. But now you can stop. Really. Please stop. Okay then, I tried to warn you, but there really is nothing here to see. sorry for wasting you time! Have a great day! 
+But let's be honest, for now I'm a bit too lazy to do all that, which you probably realized by reading up until this point. Wow you really made it to this far? Well congratulations, really, kudos to you. But now you can stop. Really. Please stop. 
+
+
+
+Okay then, I tried to warn you, but there really is nothing here to see. sorry for wasting you time! Have a great day! 
 
 Sorry, promise I'll get back to this at some point.
 
