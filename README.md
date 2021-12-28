@@ -15,7 +15,7 @@ According to Github, this is what I should write about:
 
 But let's be honest, for now I'm a bit too lazy to do all that, which you probably realized by reading up until this point. Wow you really made it to this far? Well congratulations, really, kudos to you. But now you can stop. Really. Please stop. 
 
-
+![image](https://github.com/fintzd/fintzd/blob/main/manyuploadsarenothere/theotherworkspace.jpg?raw=true)
 
 Okay then, I tried to warn you, but there really is nothing here to see. sorry for wasting you time! Have a great day! 
 
